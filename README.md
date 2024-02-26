@@ -5,10 +5,11 @@
 Welcome to my repository for the 8bit Warrior Machine Learning Internship projects and tasks. Here, I have documented my solutions and approaches to various machine learning challenges, demonstrating my skills and proficiency in the field.
 
 ## Projects
-
-1. **Project Name**: Description of the project, highlighting its objectives and challenges.
-   - **Solution**: Overview of the approach taken to solve the problem, including algorithms, models, and techniques used.
-   - **Results**: Summary of the results achieved, such as performance metrics and improvements.
+1. **Cat vs. Dog Image Classification**:
+   - **Objective**: Develop a machine learning model to classify images as either cat or dog.
+   - **Dataset**: Utilized the Kaggle Cats and Dogs dataset containing thousands of labeled cat and dog images.
+   - **Approach**: Implemented a convolutional neural network (CNN) using TensorFlow/Keras for image classification.
+   - **Results**: Achieved an accuracy of XX% on the test set, demonstrating the effectiveness of the model in distinguishing between cat and dog images.
 
 2. ...
 
